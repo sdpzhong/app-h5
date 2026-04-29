@@ -1,0 +1,18 @@
+{
+  "confirm": "确认兑换",
+  "input-tip": "请输入兑换码",
+  "next-step": "下一步",
+  "no-device": "您暂时还没有绑定摄像机哦~",
+  "no-device-msg": "抱歉，您暂时未绑定任何设备",
+  "pkg-info": "套餐详情",
+  "pkg-label": "兑换套餐",
+  "redeem-introduce": "兑换说明",
+  "redeem-introduce-value": "套餐兑换后不影响现有套餐使用，我们会在您的套餐使用完后再使用本次兑换套餐。",
+  "redeem-success": "套餐兑换成功！",
+  "redeeming": "兑换中...",
+  "select-device": "选择设备",
+  "select-device-tip": "请选择您的兑换设备",
+  "tip-item1": "1、请输入正确的兑换码，兑换后不可退回。",
+  "tip-item2": "2、每个兑换码只能在一台设备上使用，请选择需要兑换的设备， 兑换后不可退回。",
+  "tip-title": "使用说明"
+}

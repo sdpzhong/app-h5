@@ -1,0 +1,10 @@
+{
+  "copy": "复制",
+  "copy-success": "复制成功",
+  "loading": "加载中...",
+  "login-expired": "登录过期",
+  "login-expired-msg": "抱歉，您的登录凭证已过期，请重新登录。",
+  "no-data": "暂无内容",
+  "retry-request": "重新获取",
+  "tip": "提示"
+}

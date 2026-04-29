@@ -1,0 +1,11 @@
+{
+  "network-delay": "网络延迟：{0} ms",
+  "network-retest": "重新测速",
+  "network-test": "网络测试",
+  "network-test-bad": "网络较差",
+  "network-test-fail": "无网络或检测失败",
+  "network-test-loading-tip": "预计检测时长1分钟...",
+  "network-test-ok": "网络良好",
+  "network-test-primary": "网络一般",
+  "network-test-tip": "检测前确保设备已开启 同时需要确保设备处于正常模式，非省电模式或休眠模式。"
+}

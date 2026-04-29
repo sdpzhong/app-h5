@@ -1,0 +1,11 @@
+{
+  "network-delay": "Network latency: {0} ms",
+  "network-retest": "Retest speed",
+  "network-test": "Network test",
+  "network-test-bad": "Poor network",
+  "network-test-fail": "No network or detection failed",
+  "network-test-loading-tip": "The estimated detection time is 1 minute...",
+  "network-test-ok": "Good network",
+  "network-test-primary": "Network is average",
+  "network-test-tip": "Make sure the device is turned on before testing. Also make sure the device is in normal mode, not power saving mode or sleep mode."
+}

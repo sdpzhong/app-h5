@@ -1,0 +1,18 @@
+{
+  "confirm": "Confirm",
+  "input-tip": "Please enter the redemption code",
+  "next-step": "Next",
+  "no-device": "You haven't bound any cameras yet~",
+  "no-device-msg": "Sorry, you haven't bound any device yet",
+  "pkg-info": "Package details",
+  "pkg-label": "Redeem package",
+  "redeem-introduce": "Redemption instructions",
+  "redeem-introduce-value": "The package will not affect the use of the existing package after redemption. We will use this package to redemption after using your package.",
+  "redeem-success": "The package exchange was successful!",
+  "redeeming": "Redeeming...",
+  "select-device": "Select device",
+  "select-device-tip": "Please select your redemption device",
+  "tip-item1": "1. Please enter the correct redemption code. Withdrawal is unpermitted after redemption.",
+  "tip-item2": "2. Each redemption code can only be used on one device. Please select the device you want to operate on, Withdrawal is unpermitted after redemption.",
+  "tip-title": "Instructions for use"
+}

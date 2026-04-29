@@ -1,0 +1,10 @@
+{
+  "copy": "Copy",
+  "copy-success": "Copied",
+  "loading": "loading...",
+  "login-expired": "Login expired",
+  "login-expired-msg": "Sorry, your login credentials have expired. Please log in again.",
+  "no-data": "no content yet",
+  "retry-request": "Reacquire",
+  "tip": "Tip"
+}

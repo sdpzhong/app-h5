@@ -1,0 +1,31 @@
+{
+  "account-login": "Account login",
+  "account-logout": "sign out",
+  "account-logout-msg": "Do you want to log out of the current account?",
+  "cancel-account": "Cancel account",
+  "cancel-account-msg": "After the account is canceled, all user data will be cleared. \nAre you sure to cancel your account?",
+  "cancel-account-page": {
+    "confirm": "Confirm cancel account",
+    "tip-msg1": "Canceling your account is an irreversible operation. After canceling your account, you will no longer be able to log in and use the products and services you have owned with this account, nor can you retrieve any content and information you added or bound through this account.",
+    "tip-msg2": "If you still want to log out, please make sure you have backed up relevant data, and have fully read, understood and agreed to the following matters:",
+    "tip-msg3": "Canceling your account will delete all content associated with this account.",
+    "tip-title": "After logging out of your account, your data cannot be recovered.",
+    "tip-ul-li1": "The current account has been withdrawn, and you will not be able to continue to log in to this account using the bound mobile phone number and third-party account.",
+    "tip-ul-li2": "All devices bound to the current account cannot be used. Please go to the device settings in advance to delete the device.",
+    "tip-ul-li3": "Your personal data and historical information, including downloads, alarm messages, and purchase records will be cleared and cannot be restored.",
+    "tip-ul-li4": "If you have unused cloud storage services, it will be deemed that you have voluntarily given up the value-added service and no refund will be given."
+  },
+  "cancel-account-success": "Account canceled successfully",
+  "email-input-tip": "Please enter your value",
+  "email-validate-fail": "The email account format is illegal",
+  "login": "Login",
+  "send-validate-code": "Send",
+  "send-validate-code-count-down": "{0}s",
+  "send-validate-code-success": "Verification code has been sent to your email",
+  "user-email": "Email",
+  "validate-code": {
+    "input-tip": "Please enter your value",
+    "label": "Verification code",
+    "validate-fail": "Please enter the 6-digit verification code"
+  }
+}

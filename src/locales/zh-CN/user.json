@@ -1,0 +1,31 @@
+{
+  "account-login": "账号登录",
+  "account-logout": "退出登录",
+  "account-logout-msg": "是否退出当前账户登录？",
+  "cancel-account": "账号注销",
+  "cancel-account-msg": "账号注销后，用户所有数据将会清除。确认注销账号吗？",
+  "cancel-account-page": {
+    "confirm": "确认注销",
+    "tip-msg1": "注销账号是不可恢复的操作，注销账号后，您将无法再以该账号登录和使用拥有过的产品及服务，也无法找回您通过该账号添加或綁定任何内容和信息。",
+    "tip-msg2": "若您仍要注销，清您确保已经备份相关数据，并己充分阅读、理解井同意以下事项：",
+    "tip-msg3": " 注销账户将会删除和此账号关联的所有内容",
+    "tip-title": "注销账号后，数据将无法恢复",
+    "tip-ul-li1": "当前账号被收回，您将无法使用绑定的手机号以及第三方账户继续登录此账号。",
+    "tip-ul-li2": "当前账号下绑定的所有设备不可使用，请提前到设备设置内删除设备。",
+    "tip-ul-li3": "您个人资料、历史信息，包括下载、报警消息、购买记录都将被清空，且无法恢复。",
+    "tip-ul-li4": "若您存在未使用完毕的云存储服务，则视为主动放弃该增值服务，不予退款。"
+  },
+  "cancel-account-success": "账号注销成功",
+  "email-input-tip": "请输入您的登录邮箱",
+  "email-validate-fail": "邮箱账号格式不合法",
+  "login": "登录",
+  "send-validate-code": "发送验证码",
+  "send-validate-code-count-down": "{0}s",
+  "send-validate-code-success": "验证码已发送至您的邮箱",
+  "user-email": "邮箱",
+  "validate-code": {
+    "input-tip": "请输入您的验证码",
+    "label": "验证码",
+    "validate-fail": "请输入6位数字验证码"
+  }
+}
