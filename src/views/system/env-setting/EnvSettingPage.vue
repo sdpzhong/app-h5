@@ -104,7 +104,7 @@
   import { useAppEnvStore, useUserStore } from '@/stores';
   import { showToast } from 'vant';
   import { JsonViewer } from 'vue3-json-viewer';
-  import 'vue3-json-viewer/dist/index.css';
+  import 'vue3-json-viewer/dist/vue3-json-viewer.css';
 
   interface SelectOption {
     label: string;
