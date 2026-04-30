@@ -1,4 +1,4 @@
-/dist/*
+/dist/**
 .local
 .output.js
 /node_modules/**
@@ -6,5 +6,5 @@
 **/*.svg
 **/*.sh
 
-/public/*
+/public/**
 components.d.ts
