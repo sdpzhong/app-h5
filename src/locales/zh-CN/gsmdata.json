@@ -64,8 +64,7 @@
   "reset-tip-1": "1、请勿配网进程中退出，否则可能会出现无网络服务商信息！",
   "reset-tip-2": "2、如由于不可避免的情况中途退出，可回到当前页面按照操作步骤重新配置。",
   "resetting": "重置中...",
-  "start": {
-  },
+  "start": {},
   "switch-esim": "切换为eSIM",
   "switch-esim-step-1": "第一步：拔出外置SIM，重启设备",
   "switch-esim-step-2": "第二步：点击下方按钮操作重置eSIM",

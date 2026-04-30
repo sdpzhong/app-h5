@@ -64,8 +64,7 @@
   "reset-tip-1": "1. Please do not exit during the distribution network process, otherwise there may be no information about the Internet service provider!",
   "reset-tip-2": "2. If you exit midway due to inevitable circumstances, you can return to the current page and follow the steps to reconfigure.",
   "resetting": "Resting...",
-  "start": {
-  },
+  "start": {},
   "switch-esim": "Switch to eSIM",
   "switch-esim-step-1": "Step 1: Unplug the external SIM and restart the device",
   "switch-esim-step-2": "Step 2: Click the button below to reset the eSIM",
