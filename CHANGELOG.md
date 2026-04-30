@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-30)
+
+### Bug Fixes
+
+- 修复因 i18n $t 函数导致的类型检查不通过的缺陷 ([0d1e906](https://github.com/sdpzhong/app-h5/commit/0d1e9061d0d7805fd0cc560759b3f0b4e82bd90e))
+- 修复 vue3-json-viewer 样式文件地址失效的缺陷 ([2ec54d5](https://github.com/sdpzhong/app-h5/commit/2ec54d590ab9607dd3f311e78b6702700ef61932))
+
 # 0.0.0 (2024-02-27)
 
 ### Bug Fixes
