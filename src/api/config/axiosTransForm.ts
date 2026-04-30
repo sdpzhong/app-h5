@@ -34,7 +34,7 @@ export abstract class AxiosTransform {
    * @description: 请求之前的拦截器
    */
   requestInterceptors?: (
-    config: AxiosRequestConfig,
+    config: InternalAxiosRequestConfig,
     options: CreateAxiosOptions,
   ) => InternalAxiosRequestConfig;
 
