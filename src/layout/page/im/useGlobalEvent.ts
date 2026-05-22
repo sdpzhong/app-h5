@@ -6,7 +6,7 @@
  * @Desc: 初始化im事件监听
  */
 
-import { onMounted, onUnmounted } from 'vue';
+import { onBeforeUnmount, onMounted } from 'vue';
 import { IMSDK } from '@/utils/open-im';
 import {
   CbEvents,
@@ -73,7 +73,7 @@ export function useGlobalEvent() {
     setIMListener();
   });
 
-  onUnmounted(() => {
+  onBeforeUnmount(() => {
     disposeIMListener();
   });
 }
